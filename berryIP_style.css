@@ -1,0 +1,61 @@
+<style type="text/css">
+	a:link{
+		text-decoration: none;
+		color: black;
+	}
+	a:visited{
+		text-decoration: none;
+		color: black;
+	}
+	a:active{
+		text-decoration: none;
+		color: black;
+	}
+	a:hover{	
+		text-decoration: none;
+		color: black;
+	}
+	.butWhite{
+		background-color: white;
+	}
+	.butGray{
+		color: white;
+		background-color: #555555;
+	}
+	.tbNoBorder{
+		border-collapse: collapse;
+	}
+	.thGray{
+		color: white;
+		text-align: center;
+		background-color: #777777;
+		border-top: 1px solid #585858;
+		border-bottom: 1px solid #585858;
+	}
+	.tdRight{
+		text-align: right;
+	}
+	.tdC{
+		text-align: center;
+	}
+	.tdCenter{
+		text-align: center;
+	}
+	.tdGray{
+		color: black;
+		background-color: #EEEEEE;
+		border-bottom: 1px solid #DDDDDD;
+	}
+	.tdGrayC{
+		color: black;
+		text-align: center;
+		background-color: #EEEEEE;
+		border-bottom: 1px solid #DDDDDD;
+	}
+	.tdGrayR{
+		color: black;
+		text-align: right;
+		background-color: #EEEEEE;
+		border-bottom: 1px solid #DDDDDD;
+	}
+</style>
